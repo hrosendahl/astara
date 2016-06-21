@@ -34,5 +34,4 @@ Narrative Documentation
 
 Licensing
 ---------
-Astara is licensed under the Apache-2.0 license and is copyright `Akanda, Inc
-<http://akanda.io>`_.
+Astara is licensed under the Apache-2.0 license
